@@ -31,7 +31,7 @@
 可以通过 pip 安装依赖：
 
 ```bash
-_pip install ttkthemes
+pip install ttkthemes
 ```
 
 ### 运行脚本
